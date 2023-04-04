@@ -1,44 +1,30 @@
-## Olá! 👋🏻
+### Olá! 👋🏻
 
 ### O meu nome é Gabriel, tenho 22 anos e sou Desenvolvedor Full-Stack.
-
-<br>
 
 O desejo de experimentar coisas novas me motiva a continuar crescendo, isso reflete não apenas no âmbito profissional, mas também na minha vida pessoal.
 
 Eu sou um amante de café, adoro combiná-lo com um pão de queijo recem saído do forno, uma combinação ideal para desenvolver novas soluções.
 
-<br>
-
 ---
 
 ### **Resumo Profissional**
-
-<br>
 
 Eu sou formado em sistemas de informação, durante meu período de estudos a matéria que mais me chamou atenção foi o empreendedorismo, então sempre que entro em uma nova empresa ou negócio visto a camisa e tento pensar como o dono, executei trabalhos para agências, instituições financeiras e até mesmo órgãos estaduais. Hoje estou focado em melhorar minhas habilidades como Front-End, pois é uma área que tenho certa afinidade.
 
 O meu objetivo é criar soluções tecnológicas eficientes que tenham a capacidade de ajudar pessoas e empresas a alcançarem suas metas profissionais.
 
-<br>
-
 ---
 
 ### **Redes Sociais**
 
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bbag26/)
-
-<br>
 
 ---
 
 ### **Habilidades**
 
-<br>
-
-### Front-End
+#### Front-End
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
@@ -51,9 +37,7 @@ O meu objetivo é criar soluções tecnológicas eficientes que tenham a capacid
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss">
 </div>
 
-<br>
-
-### Back-End
+#### Back-End
 
 <div>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -61,9 +45,7 @@ O meu objetivo é criar soluções tecnológicas eficientes que tenham a capacid
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
-<br>
-
-### UI & Interface Design
+#### UI & Interface Design
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
