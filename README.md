@@ -2,9 +2,7 @@
 
 ### O meu nome é Gabriel, tenho 22 anos e sou Desenvolvedor Full-Stack.
 
-O desejo de experimentar coisas novas me motiva a continuar crescendo, isso reflete não apenas no âmbito profissional, mas também na minha vida pessoal.
-
-Eu sou um amante de café, adoro combiná-lo com um pão de queijo recem saído do forno, uma combinação ideal para desenvolver novas soluções.
+O desejo de experimentar coisas novas me motiva a continuar crescendo, isso reflete não apenas no âmbito profissional, como também na minha vida pessoal.
 
 ---
 
@@ -12,7 +10,7 @@ Eu sou um amante de café, adoro combiná-lo com um pão de queijo recem saído 
 
 Eu sou formado em sistemas de informação, durante meu período de estudos a matéria que mais me chamou atenção foi o empreendedorismo, então sempre que entro em uma nova empresa ou negócio visto a camisa e tento pensar como o dono, executei trabalhos para agências, instituições financeiras e até mesmo órgãos estaduais. Hoje estou focado em melhorar minhas habilidades como Front-End, pois é uma área que tenho certa afinidade.
 
-O meu objetivo é criar soluções tecnológicas eficientes que tenham a capacidade de ajudar pessoas e empresas a alcançarem suas metas profissionais.
+O meu objetivo é criar soluções tecnológicas eficientes que consigam ajudar pessoas e empresas a alcançarem suas metas profissionais.
 
 ---
 
